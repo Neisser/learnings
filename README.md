@@ -39,6 +39,12 @@ git clone https://github.com/your-username/learnings.git
 Here is a list of projects currently available in this repository:
 
 1. **[web-server-with-rust](https://alejandroaldana99.medium.com/how-to-create-a-rest-api-server-with-rust-and-mongodb-8366860739d4)**: REST API server with RUST and Mongodb.
+2. **[hello-rocket](https://rocket.rs/v0.5-rc/guide/getting-started/)**: REST API with RUST using rocket library.
+3. **[todo-app-with-trpc](https://trpc.io/docs/quickstart)**: TODO app with TRPC framework in typescript.
+4. **[Multithreaded-javascript](https://www.amazon.com/Multithreaded-JavaScript-Concurrency-Beyond-Event/dp/1098104439#:~:text=Multithreaded%20JavaScript%20explores%20the%20various,and%20high%20level%20programming%20patterns.)**: Exercises from Multithreaded-javascript book.
+5. **[distributed-systems-with-node](https://www.amazon.com/-/es/Thomas-Hunter-II/dp/1492077291/ref=pd_bxgy_img_d_sccl_1/138-3551009-7848150?pd_rd_w=jOxBu&content-id=amzn1.sym.101c7dca-f8ef-4330-838b-ed6e9ebb9e52&pf_rd_p=101c7dca-f8ef-4330-838b-ed6e9ebb9e52&pf_rd_r=05RXZ13KT1F0R2WQ90KD&pd_rd_wg=W348S&pd_rd_r=5e87d697-f3d5-4bde-b279-9f4671c1eab4&pd_rd_i=1492077291&psc=1)**: 
+Exercises from distributed-systems-with-node book.
+6. **Iterartors**: Rust iterators concepts and exercises learning.
 
 ## Contributing
 
