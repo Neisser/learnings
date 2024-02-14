@@ -9,7 +9,6 @@ for i in range(age):
   print(i)
 
 # Exercise 4: create a function that print the numbers from 1 to 100 but only the even numbers
-
 def even_numbers(top):
   for i in range(1, top):
     if i % 2 == 0:
