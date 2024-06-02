@@ -16,7 +16,11 @@ Learning complex concepts can be challenging, but breaking them down into manage
 
 Whether you're a beginner looking to explore new areas or an experienced developer wanting to sharpen your skills, these projects offer a hands-on approach to learning. Dive in, experiment, and expand your knowledge!
 
-## Getting Started
+## Other Learning Repositories
+
+1. Learning Graphs [Repo](https://github.com/Neisser/learning-graphs)
+
+## Getting Started With Project Examples
 
 To get started with the projects in this repository, follow these steps:
 
